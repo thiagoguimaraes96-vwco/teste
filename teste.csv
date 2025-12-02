@@ -1,0 +1,26 @@
+ID,"PROGRAMA","DESCRIÇÃO","FACHGRUPPEN","STATUS","PLANO DE AÇÃO","MODELO","CHECKLIST","PART NUMBER","FASE PROJETO","CRITICIDADE","Created","DMU/3D","2D","PEÇA/PDM","APRESENTAR EM:","SISTEMA","RESPONSÁVEL PLANTA PILOTO","RESPONSAVEL ENGENHARIA","Prazo para rever o item","RETORNO ENGENHARIA","Attachments","Modified","DATA FECHAMENTO","DATA RETORNO ENG","RPA","Created By"
+1,"EBUS -SPECIAL BATCH","Falta acesso para aplicar torque na conexão de retorno da caixa de direção.","CHASSI","ITEM FECHADO","CW42 - Conceito foi alterado. PDM e peças OK no KVS.
+CW20/24 - Realizado try out ""em bancada"" porém não foi conclusivo. Try out mais representativo para avaliação será realizado no veículo MAV (CW21 - CW23)
+CW11 - Informado que haverá nova conexão (devido a ser peça de prateleira do fornecedor). Solicitado peça para try out.
+CW48 - PDM e 2D disponívelis no KVS.
+CW39.4 - Nova CM será disponibilizada (ZH995-0113). Informado da necessidade dos componentes serem funcionais.
+CW38 - CM disponibilizadas para montagem. Aguardando dispobilização de todas as peças.
+CW36.1 - CM será disponibilizada hoje para solicitação de peças e início de montagens.
+CW32.1 – Acompanhar SP´s no item anterior
+CW31.1 – SP será emitida dentro do conteúdo do sistema de arrefecimento do óleo de DH.
+CW30.4 - Novo conceito com mangueira na interface, não tendo necessidade de torquímetro.
+Não explicitar ângulo da conexão de interface do retorno da caixa no PDM.
+Sextavado da interface com a caixa possui 13,5mm
+Não será torque controlado para interface de retorno.
+CW30.1 – Proposta em avançado (3D) enviada para feedback. 
+CW27.1 – Será estudada proposta de inserir mangueira, com isso não haveria necessidade de utilização de torquímetro.","20,5 4x2 LE",,"Não se Aplica","[""PMU""]","VERMELHO","17/08/2023 09:53","OK","TBD","TBD",,"DH","Garcia, Ciro Rafael Santos (C-MPL)","Norremose, Francisco Ribeiro (C-ECC)",,"Teste","1","17/09/2025 14:37",,,"17/09/2025","Pacifico, Lucas de Oliveira (EXTERN: Semcon)"
+2,"EBUS -SPECIAL BATCH","Longarinas traseiras. Conteúdo 2D:
+#NAME?
+- Suportes high/low voltage (LD/LE)","CHASSI","ITEM FECHADO","CW42 - PDM, peças e 2D´s OK no KVS (5 veículos montados na produção até o momento)
+CW30 - Aguardando feedback dos prazos","20,5 4x2 LE",,"21B.701.141.A/142.A","[""PMU""]","AMARELO","17/08/2023 10:49","OK","OK","OK",,"Quadro Chassis","Garcia, Ciro Rafael Santos (C-MPL)","Campos, Adriano Peres de (C-ECC)",,,"1","17/09/2025 14:37",,,"17/09/2025","Pacifico, Lucas de Oliveira (EXTERN: Semcon)"
+5,"EBUS -SPECIAL BATCH","Longarinas traseiras. Conteúdo 2D:
+#NAME?
+- Suportes high/low voltage (LD/LE)","CHASSI","CANCELADO","CW35 - Item repetido. Será cancelado.
+CW30 - Aguardando feedback dos prazos","20,5 4x2 LE",,"Não se Aplica","[""PMU""]","AMARELO","17/08/2023 11:58","tbd","NA","NA",,"Quadro Chassis","Garcia, Ciro Rafael Santos (C-MPL)","Garcia, Ciro Rafael Santos (C-MPL)",,,"0","14/08/2025 09:54",,,,"Pacifico, Lucas de Oliveira (EXTERN: Semcon)"
+6,"DOWNGRADE - Delivery","Indisponibilidade de furação para a montagem do suporte (23A253047) do tubo intermediário de exaustão devido as travessa já esta fixada no local.
+P.S.: Sugestão solicitar ao FG Chassi omitir as fixações da travessa no quadro chassi nos furos propostos para montagem do suporte de exaustão.","MOTOR","ITEM FECHADO","Item sendo traqueado pelo check list de produção.
